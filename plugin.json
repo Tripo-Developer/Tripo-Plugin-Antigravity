@@ -1,0 +1,28 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "tripo-3d",
+  "displayName": "Tripo 3D",
+  "description": "Generate and edit 3D models from text or images, including texturing, segmentation, rigging and animation, for games, apps and 3D printing with the Tripo API.",
+  "version": "0.1.0",
+  "logo": "assets/icon.svg",
+  "suggestedPrompts": [
+    "Turn my reference image into a textured 3D model with PBR materials and export it as GLB.",
+    "Build a game-ready 3D character with PBR textures, rig it for animation, and export it as FBX.",
+    "Generate a custom 3D-printable figurine and export it as STL."
+  ],
+  "author": {
+    "name": "VAST",
+    "url": "https://developers.tripo3d.ai/en"
+  },
+  "homepage": "https://developers.tripo3d.ai/en",
+  "license": "MIT",
+  "keywords": [
+    "3d",
+    "asset-generation",
+    "game-development",
+    "glb",
+    "fbx",
+    "text-to-3d",
+    "image-to-3d"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tripo": {
+      "serverUrl": "https://openapi-mcp.tripo3d.ai/mcp"
+    }
+  }
+}
